@@ -1,0 +1,14 @@
+{
+  "name": "@alvinleung1996/chain",
+  "version": "1.0.0",
+  "description": "Utilities for chaining object",
+  "main": "./chain.js",
+  "author": "Alvin Leung 1996",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.4.5"
+  }
+}
